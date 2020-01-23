@@ -1,0 +1,145 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/brian/Google Drive/Xcode/Projects/SrcDataDictV0.2/SrcDataDictV0.2/DataStructures.swift",
+      "line": 90,
+      "symbol": "PaymentToken.tokenExpirationMonth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brian/Google Drive/Xcode/Projects/SrcDataDictV0.2/SrcDataDictV0.2/DataStructures.swift",
+      "line": 91,
+      "symbol": "PaymentToken.tokenExpirationYear",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brian/Google Drive/Xcode/Projects/SrcDataDictV0.2/SrcDataDictV0.2/DataStructures.swift",
+      "line": 113,
+      "symbol": "Address.addressId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brian/Google Drive/Xcode/Projects/SrcDataDictV0.2/SrcDataDictV0.2/Enums.swift",
+      "line": 15,
+      "symbol": "ApplicationType.WEB_BROWSER",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brian/Google Drive/Xcode/Projects/SrcDataDictV0.2/SrcDataDictV0.2/Enums.swift",
+      "line": 16,
+      "symbol": "ApplicationType.MOBILE_APP",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brian/Google Drive/Xcode/Projects/SrcDataDictV0.2/SrcDataDictV0.2/Enums.swift",
+      "line": 17,
+      "symbol": "ApplicationType.IOT_DEVICE",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brian/Google Drive/Xcode/Projects/SrcDataDictV0.2/SrcDataDictV0.2/Enums.swift",
+      "line": 18,
+      "symbol": "ApplicationType.OTHER",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brian/Google Drive/Xcode/Projects/SrcDataDictV0.2/SrcDataDictV0.2/Enums.swift",
+      "line": 23,
+      "symbol": "ConsumerStatus.ACTIVE",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brian/Google Drive/Xcode/Projects/SrcDataDictV0.2/SrcDataDictV0.2/Enums.swift",
+      "line": 24,
+      "symbol": "ConsumerStatus.SUSPENDED",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brian/Google Drive/Xcode/Projects/SrcDataDictV0.2/SrcDataDictV0.2/Enums.swift",
+      "line": 25,
+      "symbol": "ConsumerStatus.LOCKED",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brian/Google Drive/Xcode/Projects/SrcDataDictV0.2/SrcDataDictV0.2/Enums.swift",
+      "line": 30,
+      "symbol": "DynamicDataType.CARD_APPLICATION_CRYPTOGRAM_SHORT_FORM",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brian/Google Drive/Xcode/Projects/SrcDataDictV0.2/SrcDataDictV0.2/Enums.swift",
+      "line": 31,
+      "symbol": "DynamicDataType.CARD_APPLICATION_CRYPTOGRAM_LONG_FORM",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brian/Google Drive/Xcode/Projects/SrcDataDictV0.2/SrcDataDictV0.2/Enums.swift",
+      "line": 32,
+      "symbol": "DynamicDataType.DYNAMIC_CARD_SECURITY_CODE",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brian/Google Drive/Xcode/Projects/SrcDataDictV0.2/SrcDataDictV0.2/Enums.swift",
+      "line": 33,
+      "symbol": "DynamicDataType.CARDHOLDER_AUTHENTICATION_CRYPTOGRAM",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brian/Google Drive/Xcode/Projects/SrcDataDictV0.2/SrcDataDictV0.2/Enums.swift",
+      "line": 34,
+      "symbol": "DynamicDataType.NONE",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brian/Google Drive/Xcode/Projects/SrcDataDictV0.2/SrcDataDictV0.2/Enums.swift",
+      "line": 40,
+      "symbol": "PayloadTypeIndicator.SUMMARY",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brian/Google Drive/Xcode/Projects/SrcDataDictV0.2/SrcDataDictV0.2/Enums.swift",
+      "line": 41,
+      "symbol": "PayloadTypeIndicator.FULL",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brian/Google Drive/Xcode/Projects/SrcDataDictV0.2/SrcDataDictV0.2/Enums.swift",
+      "line": 42,
+      "symbol": "PayloadTypeIndicator.PAYMENT",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brian/Google Drive/Xcode/Projects/SrcDataDictV0.2/SrcDataDictV0.2/Enums.swift",
+      "line": 43,
+      "symbol": "PayloadTypeIndicator.NON_PAYMENT",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brian/Google Drive/Xcode/Projects/SrcDataDictV0.2/SrcDataDictV0.2/JsonObject.swift",
+      "line": 12,
+      "symbol": "JsonObject",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/brian/Google Drive/Xcode/Projects/SrcDataDictV0.2"
+}
